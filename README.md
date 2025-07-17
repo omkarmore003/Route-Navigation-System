@@ -85,14 +85,6 @@ SmartVisionNavigation/
 
 ---
 
-## 🖼️ Demo Screenshot (Optional)
-
-> *(Replace this with a real image if available)*
-
-![Map Demo](route_map.png)
-
----
-
 ## 📜 License
 
 This project is licensed under the **MIT License**. See the `LICENSE` file for more details.
